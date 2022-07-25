@@ -1,7 +1,7 @@
 package com.rjxy.replace;
 
-import com.rjxy.replace.fresh.CashCard;
-import com.rjxy.replace.fresh.CreditCard;
+import com.rjxy.principle.replace.fresh.CashCard;
+import com.rjxy.principle.replace.fresh.CreditCard;
 
 import java.math.BigDecimal;
 

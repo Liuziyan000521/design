@@ -1,8 +1,8 @@
 package com.rjxy.signle;
 
-import com.rjxy.single.IVideoUserServer;
-import com.rjxy.single.impl.GuestVideoUserServer;
-import com.rjxy.single.impl.VipVideoUserServer;
+import com.rjxy.principle.single.IVideoUserServer;
+import com.rjxy.principle.single.impl.GuestVideoUserServer;
+import com.rjxy.principle.single.impl.VipVideoUserServer;
 
 /**
  * @Description NewTest

@@ -1,6 +1,6 @@
 package com.rjxy.signle;
 
-import com.rjxy.single.OldWriting;
+import com.rjxy.principle.single.OldWriting;
 
 /**
  * @Description OldTest

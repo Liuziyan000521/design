@@ -1,8 +1,8 @@
 package com.rjxy.inverted;
 
 import com.alibaba.fastjson2.JSON;
-import com.rjxy.inverted.old.BetUser;
-import com.rjxy.inverted.old.DrawControl;
+import com.rjxy.principle.inverted.old.BetUser;
+import com.rjxy.principle.inverted.old.DrawControl;
 
 import java.util.ArrayList;
 import java.util.List;

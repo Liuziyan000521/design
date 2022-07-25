@@ -1,6 +1,7 @@
 package com.rjxy.openandclose;
 
-import com.rjxy.openandclose.impl.CalculationAreaExt;
+import com.rjxy.principle.openandclose.ICalculationArea;
+import com.rjxy.principle.openandclose.impl.CalculationAreaExt;
 
 /**
  * @Description Test

@@ -1,10 +1,10 @@
 package com.rjxy.inverted;
 
 import com.alibaba.fastjson2.JSON;
-import com.rjxy.inverted.fresh.DrawControl;
-import com.rjxy.inverted.fresh.DrawRandom;
-import com.rjxy.inverted.fresh.DrawWeight;
-import com.rjxy.inverted.old.BetUser;
+import com.rjxy.principle.inverted.fresh.DrawControl;
+import com.rjxy.principle.inverted.fresh.DrawRandom;
+import com.rjxy.principle.inverted.fresh.DrawWeight;
+import com.rjxy.principle.inverted.old.BetUser;
 
 import java.util.ArrayList;
 import java.util.List;

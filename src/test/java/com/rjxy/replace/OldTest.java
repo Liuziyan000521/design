@@ -1,8 +1,8 @@
 package com.rjxy.replace;
 
 import com.alibaba.fastjson2.JSON;
-import com.rjxy.replace.old.CashCard;
-import com.rjxy.replace.old.CreditCard;
+import com.rjxy.principle.replace.old.CashCard;
+import com.rjxy.principle.replace.old.CreditCard;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
